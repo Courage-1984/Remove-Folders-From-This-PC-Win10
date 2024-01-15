@@ -5,7 +5,7 @@ Windows 10's "This PC" view doesn't just show hard drives, removable storage dev
 
 You can hide the Desktop, Documents, Downloads, Music, Pictures, Videos and 3D Objects folders -- all of them, or just some of them. This requires a quick little registry hack. They'll only be hidden from the This PC view in File Explorer. You can still access those folders from within your user folder.
 
-1. Navigate to [here](https://github.com/DieterRoux/Remove-Folders-From-This-PC-Win10/tree/main/Registry%20Hacks) and download the two zip files.
+1. Navigate to [here](https://github.com/DieterRoux/Remove-Folders-From-This-PC-Win10/tree/main/Registry%20Hacks) (or click the "Registry Hacks" folder just above) and download the two zip files.
 2. Put them anywhere and extract the apropriate files for your system (32-bit or 64-bit).
 3. Now run them and follow instructions.
 4. once you have done this now you need to restart explorer.
